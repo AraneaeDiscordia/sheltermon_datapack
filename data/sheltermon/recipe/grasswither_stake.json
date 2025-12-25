@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cobblemon:grass_gem"
+    },
+    {
+      "item": "cobblemon:dark_gem"
+    },
+    {
+      "item": "minecraft:netherite_scrap"
+    }
+  ],
+  "result": {
+    "id": "legendarymonuments:grasswither_stake",
+    "count": 1
+  }
+}
