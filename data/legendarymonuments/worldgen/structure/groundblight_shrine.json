@@ -3,9 +3,13 @@
   "biomes": [
 		"minecraft:soul_sand_valley",
 		"betternether:gravel_desert",
+		"betternether:nether_swampland",
 		"betternether:nether_swampland_terraces",
+		"betternether:old_swampland",
 		"betternether:upside_down_forest",
-		"betternether:wart_forest"
+		"betternether:upside_down_forest_cleared",
+		"betternether:wart_forest",
+		"betternether:wart_forest_edge"
   ],
   "step": "surface_structures",
   "spawn_overrides": {},

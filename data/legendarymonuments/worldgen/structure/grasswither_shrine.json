@@ -4,6 +4,9 @@
 		"minecraft:warped_forest",
 		"betternether:bone_reef",
 		"betternether:nether_jungle",
+		"betternether:nether_mushroom_forest",
+		"betternether:nether_mushroom_forest_edge",
+		"betternether:old_warped_woods",
 		"betternether:sulfuric_bone_reef"
 	],
   "step": "surface_structures",
