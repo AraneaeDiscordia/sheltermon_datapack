@@ -20,7 +20,10 @@
 	"betterend:shadow_forest",
 	"betterend:sulphur_springs",
 	"betterend:umbra_valley",
-	"betterend:umbrella_jungle"
+	"betterend:umbrella_jungle",
+	"nullscape:crystal_peaks",
+    "nullscape:shadowlands",
+    "nullscape:void_barrens"
   ],
   "step": "surface_structures",
   "spawn_overrides": {},
