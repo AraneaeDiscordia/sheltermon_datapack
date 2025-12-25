@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": [
+		"minecraft:nether_wastes",
+		"betternether:crimson_glowing_woods",
+		"betternether:crimson_pinewood",
+		"betternether:flooded_deltas",
+		"betternether:magma_land"
+  ],
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "beard_thin",
+  "start_pool": "legendarymonuments:firescourge_shrine",
+  "size": 1,
+  "start_height": {
+    "above_bottom": 32
+  },
+  "max_distance_from_center": 80,
+  "use_expansion_hack": false
+}

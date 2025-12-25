@@ -5,3 +5,6 @@
 0.0.2 - 2025.12.24
 	1. Add Eternatus Cocoon to Nullscape biomes for worldgen.
 	2. Add Hoopa Pyramid to Nullscape biomes for worldgen.
+
+0.0.3 - 2025.12.25
+	1. Icerend, Firescourge, Groundblight, and Grasswither shrine structure updated with BetterNether biomes for worldgen.
