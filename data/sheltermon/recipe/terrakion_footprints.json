@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "ESE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "cobblemon:cyan_mint_leaf"
+    },
+    "S": {
+      "item": "cobblemon:metal_coat"
+    }
+  },
+  "result": {
+    "id": "legendarymonuments:terrakion_footprints",
+    "count": 1
+  }
+}

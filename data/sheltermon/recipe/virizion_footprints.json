@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "ESE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "cobblemon:green_mint_leaf"
+    },
+    "S": {
+      "item": "cobblemon:miracle_seed"
+    }
+  },
+  "result": {
+    "id": "legendarymonuments:virizion_footprints",
+    "count": 1
+  }
+}
