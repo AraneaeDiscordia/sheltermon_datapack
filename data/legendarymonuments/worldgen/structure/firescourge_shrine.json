@@ -5,7 +5,9 @@
 		"betternether:crimson_glowing_woods",
 		"betternether:crimson_pinewood",
 		"betternether:flooded_deltas",
-		"betternether:magma_land"
+		"betternether:magma_land",
+		"incendium:infernal_dunes",
+		"incendium:volcanic_deltas"
   ],
   "step": "surface_structures",
   "spawn_overrides": {},

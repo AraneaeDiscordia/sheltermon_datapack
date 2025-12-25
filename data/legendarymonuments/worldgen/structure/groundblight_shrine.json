@@ -9,7 +9,9 @@
 		"betternether:upside_down_forest",
 		"betternether:upside_down_forest_cleared",
 		"betternether:wart_forest",
-		"betternether:wart_forest_edge"
+		"betternether:wart_forest_edge",
+		"incendium:ash_barrens",
+		"incendium:toxic_heap"
   ],
   "step": "surface_structures",
   "spawn_overrides": {},

@@ -5,7 +5,9 @@
 		"betternether:nether_grasslands",
 		"betternether:old_fungiwoods",
 		"betternether:poor_nether_grasslands",
-		"betternether:soul_plain"
+		"betternether:soul_plain",
+		"incendium:quartz_flats",
+		"incendium:withered_forest"
 	],
   "step": "surface_structures",
   "spawn_overrides": {},

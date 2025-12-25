@@ -7,7 +7,9 @@
 		"betternether:nether_mushroom_forest",
 		"betternether:nether_mushroom_forest_edge",
 		"betternether:old_warped_woods",
-		"betternether:sulfuric_bone_reef"
+		"betternether:sulfuric_bone_reef",
+		"incendium:inverted_forest",
+		"incendium:weeping_valley"
 	],
   "step": "surface_structures",
   "spawn_overrides": {},
