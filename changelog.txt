@@ -7,4 +7,9 @@
 	2. Add Hoopa Pyramid to Nullscape biomes for worldgen.
 
 0.0.3 - 2025.12.25
-	1. Icerend, Firescourge, Groundblight, and Grasswither shrine structure updated with BetterNether biomes for worldgen.
+	1. Icerend, Firescourge, Groundblight, and Grasswither shrine structures updated with BetterNether biomes for worldgen.
+	2. Icerend, Firescourge, Groundblight, and Grasswither shrine structures updated with Incendium biomes for worldgen.
+	
+0.0.4 - 2025.12.25
+	1. Recipes for Legendary Monument's shrine stakes and footprints.
+	2. Overwrite Sophisticated Storage packing tape recipe.
